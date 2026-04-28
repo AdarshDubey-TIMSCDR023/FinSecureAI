@@ -1,4 +1,4 @@
-# 🛡️ FinSecure AI — Intelligent Fraud Detection System
+# FinSecure AI — Intelligent Fraud Detection System
 
 > **FinSecure AI** is a machine learning–powered platform designed to detect fraudulent financial transactions in real time.
 > It combines **advanced fraud detection algorithms, data analytics, and a Flask-based web dashboard** to provide an intelligent security solution for digital payments.
